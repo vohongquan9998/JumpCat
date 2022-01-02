@@ -6,6 +6,12 @@ Version : Alpha
 
 Description : You will play the role of a cat and overcome obstacles, you can collect fish so that when completing the level, it will be exchanged for your score.You can choose from many levels and all levels have the same difficulty.
 
+## Demo Gif 
+
+https://drive.google.com/drive/folders/1_dRuhs1OC5pVPxOx33b1U5ob30HwNYvx?usp=sharing
+
+
+
 ## Main Menu
 
 ![Menu](https://user-images.githubusercontent.com/71002261/147879946-500056ef-3fcd-4824-9fa5-0357cbf0f00d.PNG)
@@ -27,10 +33,6 @@ Description : You will play the role of a cat and overcome obstacles, you can co
 
 
 ![Demo4](https://user-images.githubusercontent.com/71002261/147880374-0c1d5225-cb8f-45cb-9b09-7bf9e6664620.PNG)
-
-## Demo Gif 
-
-https://drive.google.com/drive/folders/1_dRuhs1OC5pVPxOx33b1U5ob30HwNYvx?usp=sharing
 
 
 ## Thank you
