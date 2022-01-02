@@ -25,6 +25,9 @@ Description : You will play the role of a cat and overcome obstacles, you can co
 
 ![Demo3](https://user-images.githubusercontent.com/71002261/147879961-694e7c4b-f515-4e92-8464-389ac23b7c87.PNG)
 
+
+![Demo4](https://user-images.githubusercontent.com/71002261/147880374-0c1d5225-cb8f-45cb-9b09-7bf9e6664620.PNG)
+
 ## Demo Gif 
 
 https://drive.google.com/drive/folders/1_dRuhs1OC5pVPxOx33b1U5ob30HwNYvx?usp=sharing
